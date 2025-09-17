@@ -1,6 +1,6 @@
 # Site acessível para todos
 # Sobre
-A arte moderna é um período artístico, iniciado no final do século XIX e consolidado na primeira metade do século XX, caracterizado por uma ruptura com as tradições clássicas e acadêmicas e um forte senso de inovação e experimentação em todas as áreas artísticas
+A arte moderna é um período artístico, iniciado no final do século XIX e consolidado na primeira metade do século XX, caracterizado por uma ruptura com as tradições clássicas e acadêmicas e um forte senso de inovação e experimentação em todas as áreas artísticas.
 
 ## Recursos da arte
 Os recursos da arte moderna se resumem em:
